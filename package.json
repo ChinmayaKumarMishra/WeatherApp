@@ -7,8 +7,5 @@
   "scripts": {
 	"start":"node src/app.js",
 	"dev":"nodemon src/app.js -e js,hbs"
-  },
-  "devDependencies": {
-	"nodemon": "^2.0.7"
   }
 }
