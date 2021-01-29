@@ -46,6 +46,6 @@ Your public key has been saved in /<user path>/.ssh/id_rsa.pub
 ssh -T git@github.com
 
 # Heroko commands
-heroku keys:add
-heroku create cm-weather-app
-npm run start
+### heroku keys:add
+### heroku create cm-weather-app
+### npm run start
